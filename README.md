@@ -1,6 +1,6 @@
 # Gaussian Pyramid Image Registration
 
-![IRGP.png](IRGP.png)
+![overview.png](overview.png)
 
 **Objective**
 
