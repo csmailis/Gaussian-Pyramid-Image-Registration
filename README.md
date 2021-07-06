@@ -1,4 +1,4 @@
-# Gaussian Pyramid Image Registration
+# Image Registration using Gaussian Pyramids
 
 ![overview.png](overview.png)
 
